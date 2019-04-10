@@ -1,6 +1,9 @@
 # FPChecker
 Float number Presentation Checker.
 
+# Install
+`npm install fpchecker`
+
 # Usage
 ```bash
 $ FPChecker number_to_be_checked
