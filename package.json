@@ -1,6 +1,6 @@
 {
   "name": "fpchecker",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "float number presentation checker",
   "main": "index.js",
   "scripts": {

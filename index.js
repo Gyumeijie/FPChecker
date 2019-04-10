@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const MAX_PRECISION = 100;
 
 String.prototype.reverse = function reverse() {
