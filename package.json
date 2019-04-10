@@ -1,0 +1,27 @@
+{
+  "name": "fpchecker",
+  "version": "1.0.0",
+  "description": "float number presentation checker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+     "PFChecker": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gyumeijie/FPChecker.git"
+  },
+  "keywords": [
+    "float",
+    "IEEE754",
+    "presentation"
+  ],
+  "author": "Gyumeijie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gyumeijie/FPChecker/issues"
+  },
+  "homepage": "https://github.com/Gyumeijie/FPChecker#readme"
+}
